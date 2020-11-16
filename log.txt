@@ -1,0 +1,12 @@
+100 stocks bought for price of $20 per stock at Wed Nov 11 10:16:42 2020
+
+20 stocks bought for price of $24 per stock at Wed Nov 11 10:16:48 2020
+
+200 stocks bought for price of $36 per stock at Wed Nov 11 10:17:05 2020
+
+150 stocks sold with gain of $940 at Wed Nov 11 10:17:24 2020
+
+10 stocks bought for price of $10 per stock at Wed Nov 11 10:18:05 2020
+
+180 stocks sold with gain of $2780 at Wed Nov 11 10:18:32 2020
+
