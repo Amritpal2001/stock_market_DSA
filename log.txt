@@ -10,3 +10,33 @@
 
 180 stocks sold with gain of $2780 at Wed Nov 11 10:18:32 2020
 
+100 stocks bought for price of $20 per stock at Mon Dec 14 13:37:18 2020
+
+20 stocks bought for price of $24 per stock at Mon Dec 14 13:37:26 2020
+
+200 stocks bought for price of $36 per stock at Mon Dec 14 13:37:36 2020
+
+0 stocks bought for price of $0 per stock at Mon Dec 14 13:37:52 2020
+
+0 stocks sold with gain of $0 at Mon Dec 14 13:38:30 2020
+
+150 stocks sold with gain of $940 at Mon Dec 14 13:39:01 2020
+
+170 stocks bought for price of $67 per stock at Mon Dec 14 13:39:44 2020
+
+240 stocks sold with gain of $2630 at Mon Dec 14 13:40:02 2020
+
+100 stocks sold with gain of $1100 at Mon Dec 14 13:40:12 2020
+
+34 stocks bought for price of $34 per stock at Mon Dec 14 13:40:47 2020
+
+34 stocks sold with gain of $0 at Mon Dec 14 13:40:58 2020
+
+100 stocks bought for price of $20 per stock at Tue Dec 15 09:20:30 2020
+
+20 stocks bought for price of $24 per stock at Tue Dec 15 09:20:38 2020
+
+200 stocks bought for price of $36 per stock at Tue Dec 15 09:20:52 2020
+
+150 stocks sold with gain of $940 at Tue Dec 15 09:21:11 2020
+
